@@ -140,5 +140,6 @@ about:
 extra:
   feedstock-name: einsums
   recipe-maintainers:
+    - cgbriggs99
     - loriab
     - jturney
